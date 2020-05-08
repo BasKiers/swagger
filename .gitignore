@@ -15,7 +15,4 @@ npm-debug.log
 /.nyc_output
 
 # source
-dist
-index.js
-index.d.ts
 /sample
